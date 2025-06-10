@@ -1,0 +1,145 @@
+
+* {
+    margin: 0;  /* Remove margem padrão */
+    padding: 0; /* Remove preenchimento padrão */
+    box-sizing: border-box; /* Inclui padding e border no cálculo do tamanho dos elementos */
+    font-family: sans-serif; /* Define Poppins como fonte principal */
+    text-decoration: none; /* Remove sublinhado de links */
+}
+.container {
+    padding: 120px 80px; /* Espaçamento interno geral dos containers */
+}
+.destaque {
+    font-weight: 700; /* Deixa o texto em negrito */
+    font-style: italic; /* Deixa o texto em itálico */
+}
+h3 {
+    font-size: 36px; /* Tamanho da fonte do título h3 */
+    color: #3c184e;  /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    margin: 0 0 45px; /* Margem inferior */
+}
+header{
+    width: 100%; /* Largura total do cabeçalho */
+    background-image: url("img/banner-topo.jpg"); /* Imagem de fundo */
+    background-repeat: no-repeat; /* Não repete a imagem de fundo */
+    background-position: center; /* Centraliza a imagem de fundo */
+    background-size: cover; /* Cobre todo o espaço do cabeçalho */
+    padding: 120px 80px; /* Espaçamento interno do cabeçalho */
+}
+.container-nome-logo{
+    max-width: 250px; /* Largura máxima do container */
+    color: #3c184e; /* Cor do texto */
+   
+}
+.container-nome-logo img{
+    width: 30px; /* Largura da imagem */
+    margin-right: 5px; /* Margem direita da imagem */
+}
+.container-nome-logo .nome-pet-shop{
+    font-size: 35px; /* Tamanho da fonte do nome do pet shop */
+    margin: 0 0 5px 0; /* Margem inferior */
+}
+.container-nome-logo .slogan-pet-shop{
+    font-size: 14px; /* Tamanho da fonte do slogan */
+    text-align: center; /* Centraliza o texto */
+    margin: 0; /* Remove margens */
+}
+.container-titulo-topo{
+    max-width: 1024px; /* Largura máxima do container */
+    border-radius: 10px; /* Bordas arredondadas */
+    padding: 40px;   /* Espaçamento interno */
+    margin: 70px auto 0; /* Margem superior e inferior */
+    background: #ffffffc4; /* Cor de fundo com opacidade */
+    box-shadow: 0 8px 32px #1f26875e;  /* Sombra do container */
+}
+.titulo-topo{
+    font-size: 60px; /* Tamanho da fonte do título */
+    color: #3c184e; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    font-weight: 800px;  /* Deixa o texto em negrito */
+    margin: 0 0 40px; /* Margem inferior */
+}
+.link-fale-conosco{
+    text-align: center; /* Centraliza o texto */
+    width: 200px;   /* Largura do container */
+    padding: 10px 25px; /* Espaçamento interno */
+    font-size: 20px; /* Tamanho da fonte */
+    background-color: #3c184e; /* Cor de fundo */
+    border-radius: 10px; /* Bordas arredondadas */
+    margin: 0 auto; /* Margem automática para centralizar */
+}
+.link-fale-conosco a{
+    color: #fff;    /* Cor do texto */
+}
+.container-titulo-topo img{
+    width: 20px; /* Largura da imagem */
+}
+.box-servicos {
+    max-width: 800px;   /* Largura máxima do container */
+    color: #3c184e;     /* Cor do texto */
+    margin: 0 auto 50px; /* Margem inferior */
+}
+.box-servicos li {
+    font-size: 20px; /* Tamanho da fonte */
+    margin: 0 0 20px;   /* Margem inferior */
+}
+.box-servicos-img {
+    max-width: 800px;  /* Largura máxima do container */
+    margin: 0 auto; /* Margem automática para centralizar */
+    text-align: center;     /* Centraliza o texto */
+}
+.box-servicos-img img {
+    box-shadow: 3px 6px 10px 6px #0000005c;     /* Sombra da imagem */
+    border-radius: 5px; /* Bordas arredondadas */
+}
+.container-faixa{
+    background-color: #3c184e;  /* Cor de fundo */
+    text-align: center;     /* Centraliza o texto */
+}
+.text-faixa {
+    max-width: 800px; /* Largura máxima do container */
+    margin: 0 auto 50px;  /* Margem inferior */
+    color: #fff; /* Cor do texto */
+    font-size: 40px; /* Tamanho da fonte */
+}
+.redes-sociais a {
+    margin: 0 20px; /* Margem lateral */
+}
+.redes-sociais img {
+    width: 50px; /* Largura da imagem */
+    height: 50px; /* Altura da imagem */
+}
+.container-marcas{
+    max-width: 800px; /* Largura máxima do container */
+    margin: 0 auto; /* Margem automática para centralizar */
+    text-align: center;     /* Centraliza o texto */
+}
+.logo-marca{
+    width: 148px; /* Largura da imagem */
+    height: 148px; /* Altura da imagem */
+    margin: 0 15px; /* Margem lateral */
+
+}
+.onde-estamos{
+    text-align: center; /* Centraliza o texto */
+}
+.onde-estamos p{
+    color: #3c184e; /* Cor do texto */
+    font-size: 20px; /* Tamanho da fonte */
+    margin: 0 0 45px; /* Margem inferior */
+}
+.onde-estamos iframe{
+    width: 800px;   /* Largura do iframe */
+    height: 450px; /* Altura do iframe */
+}
+.rodape{
+    background-color: #3c184e;  /* Cor de fundo */
+    padding: 10px 0;    /* Espaçamento interno */
+}
+.text-rodape{
+    color: #fff; /* Cor do texto */
+    font-size: 12px; /* Tamanho da fonte */
+    text-align: center; /* Centraliza o texto */
+    
+}
