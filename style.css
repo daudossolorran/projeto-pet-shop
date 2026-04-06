@@ -21,7 +21,7 @@ h3 {
 }
 header{
     width: 100%; /* Largura total do cabeçalho */
-    background-image: url("img/banner-topo.jpg"); /* Imagem de fundo */
+    background-image: url("img/banner-topo.j"); /* Imagem de fundo */
     background-repeat: no-repeat; /* Não repete a imagem de fundo */
     background-position: center; /* Centraliza a imagem de fundo */
     background-size: cover; /* Cobre todo o espaço do cabeçalho */
@@ -57,7 +57,7 @@ header{
     font-size: 60px; /* Tamanho da fonte do título */
     color: #3c184e; /* Cor do texto */
     text-align: center; /* Centraliza o texto */
-    font-weight: 800px;  /* Deixa o texto em negrito */
+    font-weight: 800;  /* Deixa o texto em negrito */
     margin: 0 0 40px; /* Margem inferior */
 }
 .link-fale-conosco{
