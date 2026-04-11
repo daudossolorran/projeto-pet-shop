@@ -21,7 +21,7 @@ h3 {
 }
 header{
     width: 100%; /* Largura total do cabeçalho */
-    background-image: url("img/banner-topo.j"); /* Imagem de fundo */
+    background-image: url("img/banner-topo.jpg"); /* Imagem de fundo */
     background-repeat: no-repeat; /* Não repete a imagem de fundo */
     background-position: center; /* Centraliza a imagem de fundo */
     background-size: cover; /* Cobre todo o espaço do cabeçalho */
